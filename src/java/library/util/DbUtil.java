@@ -8,7 +8,7 @@ public class DbUtil {
 	
 	private static String dbUrl = "bolt://localhost:7687";
 	private static String dbUserName = "neo4j";
-	private static String dbPassword = "neo4jsmile19968";
+	private static String dbPassword = "neo4j";
 	
 	/**
 	 * 连接数据库
